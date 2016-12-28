@@ -1,4 +1,7 @@
 # Machine Learning Engineer Nanodegree
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7d7d607b8b448c688001d746a2c185a)](https://www.codacy.com/app/azeezfemi17937/finding_donors?utm_source=github.com&utm_medium=referral&utm_content=kantologist/finding_donors&utm_campaign=badger)
+
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
